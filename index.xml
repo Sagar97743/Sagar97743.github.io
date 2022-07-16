@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing Site</title>
+    <link>https://sagar97743.github.io/</link>
+    <description>Recent content on Testing Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 08:33:35 +0545</lastBuildDate>
+    
+	<atom:link href="https://sagar97743.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://sagar97743.github.io/about/</link>
+      <pubDate>Sat, 16 Jul 2022 08:33:35 +0545</pubDate>
+      
+      <guid>https://sagar97743.github.io/about/</guid>
+      <description>This is Sagar Newpane .</description>
+    </item>
+    
+  </channel>
+</rss>
