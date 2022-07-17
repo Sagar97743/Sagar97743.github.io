@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testing Site</title>
+    <title>Valère JEANTET</title>
     <link>https://sagar97743.github.io/</link>
-    <description>Recent content on Testing Site</description>
+    <description>Recent content on Valère JEANTET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>All rights reserved</copyright>
     <lastBuildDate>Sat, 16 Jul 2022 08:33:35 +0545</lastBuildDate>
     
 	<atom:link href="https://sagar97743.github.io/index.xml" rel="self" type="application/rss+xml" />
